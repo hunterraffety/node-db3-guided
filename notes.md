@@ -1,3 +1,7 @@
+# Notes
+
+[Front End] <Request> [(endpoints) <> (data access)] <> [DB]
+
 # Problem
 
 A client has hired you to track zoo animals.
